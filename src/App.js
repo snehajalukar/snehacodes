@@ -77,6 +77,16 @@ function App() {
           description="Graduated with my bachelors degree in Computer Science with a 3.8 GPA from Oakland University" 
         />
 
+        <LexBreak title="Outside of work?" description="Below are some of my hobbies!" />
+
+        <LexPost 
+          location="Earth" 
+          link="http://www.snehaphotography.com"
+          time="2015 - Present" 
+          title="Photography" 
+          description="I enjoy taking portraits, street photography, and nature photography 📷." 
+        />
+
       </div>
     </div>
   );
