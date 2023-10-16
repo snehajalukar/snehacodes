@@ -19,7 +19,7 @@ const LexPost = ({location, time, title, description, link}) => {
         <div className="LexPost__content">
           <p className="LexPost__title">{title}</p>
           <p className="LexPost__description">{description}</p>
-          {link ? <p className="LexPost__Link">Learn more: <a href={link}>here</a></p> : <></>}
+          {link ? <p className="LexPost__Link">Learn more: <a target="_blank" href={link}>here</a></p> : <></>}
         </div>
 
 

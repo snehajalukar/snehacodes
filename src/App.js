@@ -52,6 +52,14 @@ function App() {
           />
 
         <LexPost 
+          location="Chicago, IL (Remote)" 
+          time="June 2021 - Dec 2022" 
+          title="Road to Hire Mentor" 
+          description="While I worked at Red Ventures, I was an active mentor in the Road to Hire program. I interviewed participants coming into the program and mentored individuals currently going through technical bootcamps, touching base weekly with mentees on JavaScript basics." 
+          link="https://www.roadtohire.org/" 
+        />
+
+        <LexPost 
           location="Auburn Hills, Michigan" 
           time="Jan 2018 - Sept 2020" 
           title="Director @ GrizzHacks" 
