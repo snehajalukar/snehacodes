@@ -1,10 +1,6 @@
 import React from 'react'
 
-const LexBreak = ({time, title, description}) => {
-
-  function sendEmail() {
-      window.location = "mailto:xyz@yourapplicationdomain.com";
-  }
+const LexBreak = ({title, description}) => {
 
   return (
     <div className="LexBreak">

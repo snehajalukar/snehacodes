@@ -1,17 +1,13 @@
 import React from 'react'
 
-const LexPost = ({time, title, description, link}) => {
-
-  function sendEmail() {
-      window.location = "mailto:xyz@yourapplicationdomain.com";
-  }
+const LexPost = ({location, time, title, description, link}) => {
 
   return (
     <div className="LexPost">
         <div className="LexPost__header">
           <div className="LexPost__header-left">
             <div><b>Sneha</b> @sneha</div>
-            <div>Chicago, IL • {time}</div>
+            <div>{location} • {time}</div>
           </div>
 
           <div className="LexPost__header-right">
