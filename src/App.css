@@ -47,9 +47,10 @@ a:hover {
 .Header-background {
   background-color: #47cf50;
   height: 75px;
-  margin: 0 -20px;
+  /* margin: 0 -20px; */
   display: flex;
   align-items: center;
+  flex-direction: column;
 }
 
 .Header-text {
@@ -63,6 +64,9 @@ a:hover {
   flex-direction: column;
   flex-wrap: wrap;
 }
+
+/* LEXPOST COMPONENT BELOW */
+
 
 .LexPost {
   margin-top: 20px;
@@ -115,6 +119,10 @@ a:hover {
   font-size: medium;
 }
 
+.LexPost__Link {
+  text-align: left;
+}
+
 .LexPost__footer {
   display: flex;
   flex-direction: row;
@@ -145,6 +153,41 @@ a:hover {
 }
 
 
+/* LEXBREAK COMPONENT BELOW */
+
+
+.LexBreak {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  border: 2px solid #EDBAFA;
+  background-color: #EDBAFA;
+  color: #000;
+  width: 400px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.LexBreak__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.LexBreak__title {
+  font-weight: bold;
+  font-size: larger;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.LexBreak__description {
+  margin-top: 0px;
+  font-size: medium;
+}
 
 @keyframes App-logo-spin {
   from {

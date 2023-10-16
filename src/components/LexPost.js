@@ -1,6 +1,6 @@
 import React from 'react'
 
-const LexPost = ({time, title, description}) => {
+const LexPost = ({time, title, description, link}) => {
 
   function sendEmail() {
       window.location = "mailto:xyz@yourapplicationdomain.com";
@@ -23,6 +23,7 @@ const LexPost = ({time, title, description}) => {
         <div className="LexPost__content">
           <p className="LexPost__title">{title}</p>
           <p className="LexPost__description">{description}</p>
+          {link ? <p className="LexPost__Link">Learn more: <a href={link}>here</a></p> : <></>}
         </div>
 
 
