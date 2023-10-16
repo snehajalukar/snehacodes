@@ -63,7 +63,7 @@ function App() {
           location="Auburn Hills, Michigan" 
           time="Jan 2018 - Sept 2020" 
           title="Director @ GrizzHacks" 
-          description="Responsible for co-leading a team of 11 individuals, and raised more than $70,000 to throw the largest hackathon in the metro Detroit area; Lead development on technical endeavors such as the website and app." 
+          description="Responsible for co-leading a team of 11 individuals, and raised more than $70,000 to throw the largest hackathon in the metro Detroit area; Led development on technical endeavors such as the website and app." 
           link="https://blogs.microsoft.com/chicago/2018/11/12/empowering-and-inspiring-at-oakland-universitys-grizzhacks/" 
           />
 
