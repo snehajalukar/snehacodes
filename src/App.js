@@ -44,7 +44,7 @@ function App() {
         <LexBreak title="Community Involvement" description="Giving back with my time." />
 
         <LexPost 
-          location="Chicago, IL (Remote)" 
+          location="Chicago, IL" 
           time="Aug 2022 - Present" 
           title="Board Member @ Chi Hack Night" 
           description="I volunteer my time on the board of Chi Hack Night, a civic tech nonprofit in the City of Chicago." 
