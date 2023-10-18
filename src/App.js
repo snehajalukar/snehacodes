@@ -36,7 +36,7 @@ function App() {
 
         <LexPost 
           location="Detroit, Michigan" 
-          time="June 2021 - Dec 2022" 
+          time="Jul 2017 - Oct 2018" 
           title="Technical Associate @ Techstars" 
           description="Software Engineering consultant for startup companies accepted into the 2017 & 2018 Techstars Mobility accelerator cohorts. I worked with super early stage startups, helped them build and helped the program run smoothly." 
           />
@@ -74,7 +74,7 @@ function App() {
           location="Auburn Hills, Michigan" 
           time="Jan 2017 - May 2021" 
           title="Computer Science Undergraduate Student" 
-          description="Graduated with my bachelors degree in Computer Science with a 3.8 GPA from Oakland University" 
+          description="Graduated with my bachelors degree in Computer Science with a 3.8 GPA from Oakland University. My computer science program was taught primarily in Java, but I took classes that also covered Python, Ruby and Scheme (Lisp)." 
         />
 
         <LexBreak title="Outside of work?" description="Below are some of my hobbies!" />
