@@ -7,7 +7,7 @@ const Header = () => {
         <div>
           <a style={{ marginRight: "10px"}} href="/">Home</a>
           <a style={{ marginRight: "10px"}} target="_blank" href="resume.pdf">Resume</a>
-          <a style={{ marginRight: "10px"}} href="/community">Community</a>
+          <a style={{ marginRight: "10px"}} href="/#/community">Community</a>
         </div>
     </div>
   )

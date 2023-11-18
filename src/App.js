@@ -41,7 +41,7 @@ function App() {
           description="Software Engineering consultant for startup companies accepted into the 2017 & 2018 Techstars Mobility accelerator cohorts. I worked with super early stage startups, helped them build and helped the program run smoothly." 
           />
 
-        <LexBreak title="Community Involvement" description="Giving back with my time." link="/community"/>
+        <LexBreak title="Community Involvement" description="Giving back with my time." link="/#/community"/>
 
         <LexPost 
           location="Chicago, IL" 
