@@ -54,6 +54,14 @@ function Community() {
 
         <LexPost 
           location="Detroit, Michigan" 
+          time="Oct 2017 - Jan 2021" 
+          title="Startup Detroit Open Source Project Maintainer / Community Leader" 
+          description="During my time working at Techstars Mobility, I built and worked to grow a project uniting the Detroit startup community in a grassroots way. I grew and moderated the Slack community, partnered with local startups to throw monthly community meetups, did weekly outreach to grow the network of participating companies, and built/maintained the open source website." 
+          link="http://startupdetroit.co/" 
+        />  
+
+        <LexPost 
+          location="Detroit, Michigan" 
           time="Jan 2014 - May 2015" 
           title="CodeDay Detroit Organizer @ StudentRND" 
           description="Organized the first 24 hour hackathon for high school and college students in Detroit. The first CodeDay Detroit was on May 24th, 2014, the second on February 14th, 2015, and the third on May 23rd, 2015. Raised 15k total, and reached 300 students." 
@@ -72,7 +80,7 @@ function Community() {
             location="Chicago, IL" 
             time="Sept 2023 - Present" 
             title="Support Group Admin/Leader @ TFEM Chicago" 
-            description="Supporting the transgender community in Chicago on a weekly basis, through in-person and online zoom events." 
+            description="Supporting the transgender community in Chicago on a weekly basis, through in-person and online zoom events and moderating a Discord group." 
             link="https://centeronhalsted.org/newevents-details.cfm?ID=17600" 
         />
       </div>
