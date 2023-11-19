@@ -24,7 +24,7 @@ function Community() {
           location="Remote" 
           time="March 2018 - May 2021" 
           title="Startup Digest Global Coordinator @ Techstars Community Programs" 
-          description="Startup Digest is a volunteer-run newsletter for everything entrepreneurial - in over 400 cities. My role was to interview and onboard new curators around the world, and make sure the operations of the program were running smoothly. I interviewed, onboarded and supported 500+ curators around the world during my time with Startup Digest"
+          description="Startup Digest is a volunteer-run newsletter for everything entrepreneurial - in over 400 cities. My role was to interview and onboard new curators around the world, and make sure the operations of the program were running smoothly. I interviewed, onboarded and supported 500+ curators around the world during my time with Startup Digest."
           link="https://www.techstars.com/communities/startup-digest" 
           />
 
@@ -67,7 +67,7 @@ function Community() {
           description="My first experience on a large hackathon team was in 2014 on the MHacks Sponsorship Team, I quickly learned how to raise money, budget and run a world class event. Did outreach to local high schools as well. MHacks gave me the experience and confidence to later run CodeDay Detroit, BoilerMake, Debug Politics, hackWSU, GrizzHacks, and many more hackathons." 
           link="https://medium.com/@BoilerMake/failure-hackathons-and-boilermake-5c66fbcd0128" 
         />
-        
+
         <LexPost 
             location="Chicago, IL" 
             time="Sept 2023 - Present" 
