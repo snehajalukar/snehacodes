@@ -41,6 +41,13 @@ function App() {
           description="Software Engineering consultant for startup companies accepted into the 2017 & 2018 Techstars Mobility accelerator cohorts. I worked with super early stage startups, helped them build and helped the program run smoothly." 
           />
 
+        <LexPost 
+          location="Detroit, Michigan" 
+          time="June 2016 - Dec 2016" 
+          title="Web Developer @ SAGA MKTG" 
+          description="I worked for a marketing company in Detroit building custom wordpress sites (in PHP). During my time at SAGA, I worked on branding elements and websites for clients including Mayor Duggan of Detroit, Detroit Institute of Arts, The United Way of Southeastern Michigan, Global Automotive Alliance, Central City Integrated Health, B and D Construction, and The Sanders Law Firm, P.C. I also worked on the backend of a scholarship portal (in PHP) for the W. Bernard White Education Foundation." 
+        />    
+
         <LexBreak title="Community Involvement" description="Giving back with my time." link="/#/community"/>
 
         <LexPost 
