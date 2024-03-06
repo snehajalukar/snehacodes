@@ -13,7 +13,7 @@ function App() {
         <LexBreak title="Experiences" description="Welcome to my website! Read about my work experiences below. I'm always open to hearing about opportunities and open to relocation." />
 
         <LexPost 
-          time="Jan 2023 - Present"
+          time="Jan 2023 - Mar 2024"
           location="Chicago, IL (Remote)" 
           title="Software Engineer @ DebtBook" 
           description="Currently, I work as a mid-level software engineer at DebtBook on the ecosystem team, building finance software for local governments and nonprofits. I work with the Ruby/Rails and Javascript/React tech stacks!" 
