@@ -23,11 +23,11 @@ function App() {
           time="June 2021 - Dec 2022" 
           location="Chicago, IL (Remote)" 
           title="Software Engineer @ Red Ventures" 
-          description="At Red Ventures, I worked as a full-stack software engineer on Bankrate, CreditCards.com and CNET Money. I used Typescript/React and PHP (Laravel) among other tech stacks." 
+          description="At Red Ventures, I worked as a full-stack software engineer on Bankrate, CreditCards.com and CNET Money. I used Typescript/React and PHP (Laravel) among other tech stacks. As a full-stack engineer, I also maintained backend services in Node (and some in Go, Java), helped maintain our users database (Postgres) and managed cloud infrastructure on AWS (used Terraform)."
         />
 
         <LexPost 
-          location="Remote" 
+          location="Remote"
           time="March 2018 - May 2021" 
           title="Startup Digest Global Coordinator @ Techstars Community Programs" 
           description="Startup Digest is a volunteer-run newsletter for everything entrepreneurial - in over 400 cities. My role was to interview and onboard new curators around the world, and make sure the operations of the program were running smoothly."
