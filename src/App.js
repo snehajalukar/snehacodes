@@ -16,7 +16,7 @@ function App() {
           time="Jan 2023 - Mar 2024"
           location="Chicago, IL (Remote)" 
           title="Software Engineer @ DebtBook" 
-          description="Currently, I work as a mid-level software engineer at DebtBook on the ecosystem team, building finance software for local governments and nonprofits. I work with the Ruby/Rails and Javascript/React tech stacks!" 
+          description="Most recently, I worked as a mid-level software engineer at DebtBook on the ecosystem team, building finance software for local governments and nonprofits. I worked with the Ruby/Rails and Javascript/React tech stacks!" 
           />
 
         <LexPost 
