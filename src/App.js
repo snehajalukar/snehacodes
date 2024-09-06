@@ -13,6 +13,13 @@ function App() {
         <LexBreak title="Experiences" description="Welcome to my website! Read about my work experiences below. I'm always open to hearing about opportunities and open to relocation." />
 
         <LexPost 
+          time="June 2024 - Present"
+          location="Chicago, IL" 
+          title="Cloud Infra Engineer @ McDonalds" 
+          description="Making a career pivot into cloud engineering & platform engineering. Currently, I work on the restaurant global platform team defining standards used across the world." 
+          />
+
+        <LexPost 
           time="Jan 2023 - Mar 2024"
           location="Chicago, IL (Remote)" 
           title="Software Engineer @ DebtBook" 
