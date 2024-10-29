@@ -16,7 +16,7 @@ function App() {
           time="June 2024 - Present"
           location="Chicago, IL" 
           title="Cloud Infra Engineer @ McDonalds" 
-          description="Making a career pivot into cloud engineering & platform engineering. Currently, I work on the restaurant global platform team defining standards used across the world." 
+          description="Making a career pivot into cloud engineering & platform engineering. Currently, I work on the global platform team defining standards used across the world, and helping build, provision, and support infrastructure used around the world." 
           />
 
         <LexPost 
