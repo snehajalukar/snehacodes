@@ -75,14 +75,6 @@ function Community() {
           description="My first experience on a large hackathon team was in 2014 on the MHacks Sponsorship Team, I quickly learned how to raise money, budget and run a world class event. Did outreach to local high schools as well. MHacks gave me the experience and confidence to later run CodeDay Detroit, BoilerMake, Debug Politics, hackWSU, GrizzHacks, and many more hackathons." 
           link="https://medium.com/@BoilerMake/failure-hackathons-and-boilermake-5c66fbcd0128" 
         />
-
-        <LexPost 
-            location="Chicago, IL" 
-            time="Sept 2023 - Present" 
-            title="Support Group Admin/Leader @ TFEM Chicago" 
-            description="Supporting the transgender community in Chicago on a weekly basis, through in-person and online zoom events and moderating a Discord group." 
-            link="https://centeronhalsted.org/newevents-details.cfm?ID=17600" 
-        />
       </div>
     </div>
   );
