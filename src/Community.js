@@ -10,7 +10,7 @@ function Community() {
     <div className="Community">
       <Header />
       <div className="content">
-        <LexBreak title="Community" description="I'm passionate about building, growing and supporting inclusive communities, whether in the tech industry, startup community or LGBTQ+ community. Here is some of my community focused work!" />
+        <LexBreak title="Community" description="I'm passionate about building, growing and supporting inclusive communities, whether in the tech industry, startup community or civic tech community. Here is some of my community focused work!" />
 
         <LexPost 
           location="Chicago, IL" 
