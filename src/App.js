@@ -11,13 +11,20 @@ function App() {
       <Header />
       <div className="content">
         <LexBreak title="Experiences" description="Welcome to my website! Read about my work experiences below. I'm always open to hearing about opportunities and open to relocation." />
+        
+        <LexPost 
+          time="April 2025 - Present"
+          location="Chicago, IL (Remote)" 
+          title="Software Engineer II (DevOps) @ ACLU" 
+          description="At the ACLU, I support building/maintaining all of our various tech infrastructure and teams in product & technology." 
+        />
 
         <LexPost 
-          time="June 2024 - Present"
+          time="June 2024 - April 2025"
           location="Chicago, IL" 
           title="Cloud Infra Engineer @ McDonalds" 
-          description="Making a career pivot into cloud engineering & platform engineering. Currently, I work on the global platform team defining standards used across the world, and helping build, provision, and support infrastructure used around the world." 
-          />
+          description="Made a career pivot into cloud engineering & platform engineering. I worked on the global platform team defining standards used across the world, and helping build, provision, and support infrastructure used around the world." 
+        />
 
         <LexPost 
           time="Jan 2023 - Mar 2024"
